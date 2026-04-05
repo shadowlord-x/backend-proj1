@@ -1,0 +1,17 @@
+{
+  "name": "huge_project",
+  "version": "1.0.0",
+  "description": "A huge project via chai with backend",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Vinayak",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
